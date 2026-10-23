@@ -1,0 +1,8 @@
+{
+  "name": "HemaReview - Hematology & Blood Systems Board Review",
+  "description": "Comprehensive 65-question board review and interactive study tool covering hematopoiesis, RBC physiology, anemia, hemostasis, coagulation cascades, immunity, and blood grouping with high-yield clinical pearls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
